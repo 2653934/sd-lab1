@@ -1,0 +1,1 @@
+I have made a git repository and learnt how to make the commits to the git repo. I learnt about branches and how the they work as well as commiting to it and from there deploying my pages.
