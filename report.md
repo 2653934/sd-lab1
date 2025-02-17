@@ -1,1 +1,1 @@
-I have made a git repository and learnt how to make the commits to the git repo. I learnt about branches and how the they work as well as commiting to it and from there deploying my pages.
+I have made a git repository and learnt how to make the commits to the git repo. I learnt about branches and how the they work as well as commiting to it and from there deploying my pages. I learnt how to bundle my project into a single file to submit it. 
